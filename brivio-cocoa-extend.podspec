@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = "brivio-cocoa-extend"
   s.version          = "0.1.0"
-  s.summary          = "some objective-c categories for ios development"
+  s.summary          = "some usefull objective-c categories for ios development"
 
   s.description      = <<-DESC
                        DESC
